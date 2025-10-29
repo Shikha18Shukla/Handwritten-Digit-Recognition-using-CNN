@@ -1,6 +1,3 @@
-# Handwritten-Digit-Recognition-using-CNN
-This project implements a Convolutional Neural Network (CNN) for recognizing handwritten digits using the MNIST dataset. It demonstrates the complete machine learning pipeline — from data preprocessing and model training to evaluation and prediction — and serves as a foundation for more advanced image recognition projects.
-
 # 🧠 Handwritten Digit Recognition using CNN
 
 This project builds a **Convolutional Neural Network (CNN)** to recognize handwritten digits using the **MNIST** dataset. It’s designed as a beginner-friendly deep learning project to understand image classification, CNN architecture, and model deployment basics.
