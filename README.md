@@ -43,17 +43,3 @@ To classify handwritten digits (0–9) from grayscale images using a CNN model t
 - Basic model deployment using Flask/Streamlit  
 
 ---
-
-## 📂 Folder Structure
-handwritten_digit_recognition/
-│
-├── data/ # (Optional) Store sample images or datasets
-├── models/
-│ └── model.h5 # Saved CNN model
-├── src/
-│ ├── train_model.py # Train and evaluate the CNN
-│ ├── predict_single_digit.py # Load and test saved model
-│ └── utils.py # Helper functions (optional)
-├── requirements.txt # Python dependencies
-├── README.md
-└── .gitignore
